@@ -1,0 +1,5 @@
+157382 [pool-1-thread-1] INFO  org.apache.hadoop.tools.DistCp  - Input Options: DistCpOptions{atomicCommit=false, syncFolder=false, deleteMissing=false, ignoreFailures=false, maxMaps=20, sslConfigurationFile='null', copyStrategy='uniformsize', sourceFileListing=null, sourcePaths=[hdfs://localhost:62124/user/test/203e6684-7e33-41e5-81b8-b2849fa85b4a/input], targetPath=hdfs://localhost:62124/user/test/203e6684-7e33-41e5-81b8-b2849fa85b4a/output, targetPathExists=false, preserveRawXattrs=false}
+157994 [pool-1-thread-1] INFO  org.apache.hadoop.yarn.client.api.impl.YarnClientImpl  - Submitted application application_1563731634223_0004
+158074 [pool-1-thread-1] INFO  org.apache.hadoop.mapreduce.Job  - The url to track the job: http://localhost:62144/proxy/application_1563731634223_0004/
+158075 [pool-1-thread-1] INFO  org.apache.hadoop.tools.DistCp  - DistCp job-id: job_1563731634223_0004
+158075 [pool-1-thread-1] INFO  org.apache.hadoop.mapreduce.Job  - Running job: job_1563731634223_0004

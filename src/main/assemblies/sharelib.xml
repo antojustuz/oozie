@@ -64,6 +64,10 @@
            <outputDirectory>/</outputDirectory>
        </fileSet>
         <fileSet>
+            <directory>${basedir}/presto/target/partial-sharelib</directory>
+            <outputDirectory>/</outputDirectory>
+        </fileSet>
+        <fileSet>
             <directory>${basedir}/spark/target/partial-sharelib</directory>
             <outputDirectory>/</outputDirectory>
         </fileSet>
